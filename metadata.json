@@ -8,6 +8,7 @@
   "extensions": {
     "website": "https://rg.business",
     "description": "Token oficial da Rocket Gaming Corporation. Utilizado em governança DAO e acesso ao ecossistema da RG.",
-    "whitepaper": "https://rocket-gaming-corporation.gitbook.io/whitepapper"
+    "whitepaper": "https://rocket-gaming-corporation.gitbook.io/whitepapper",
+    "explorer": "https://solscan.io/token/EwKt82mDxzvgW2T5vZ4H5MGRfJyWAGxay38mSB4699Fh"
   }
 }
