@@ -1,16 +1,13 @@
 {
-  "name": "RG Token",
+  "address": "EwKt82mDxzvgW2T5vZ4H5MGRfJyWAGxay38mSB4699Fh",
   "symbol": "RGCORP",
-  "description": "Token oficial da Rocket Gaming Corporation.",
-  "image": "https://i.imgur.com/i4eXsiD.png",
+  "name": "RG Token",
   "decimals": 8,
-  "properties": {
-    "category": "token",
-    "creators": [
-      {
-        "address": "EwKt82mDxzvgW2T5vZ4H5MGRfJyWAGxay38mSB4699Fh",
-        "share": 100
-      }
-    ]
+  "logoURI": "https://i.imgur.com/6yqIdLT.png",
+  "tags": ["utility-token", "governance"],
+  "extensions": {
+    "website": "https://rg.business",
+    "description": "Token oficial da Rocket Gaming Corporation. Utilizado em governança DAO e acesso ao ecossistema da RG.",
+    "whitepaper": "https://rocket-gaming-corporation.gitbook.io/whitepapper"
   }
 }
