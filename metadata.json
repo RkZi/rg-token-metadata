@@ -3,7 +3,14 @@
   "symbol": "RGCORP",
   "description": "Token oficial da Rocket Gaming Corporation.",
   "image": "https://i.imgur.com/i4eXsiD.png",
-  "decimals": 8
+  "decimals": 8,
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "EwKt82mDxzvgW2T5vZ4H5MGRfJyWAGxay38mSB4699Fh",
+        "share": 100
+      }
+    ]
+  }
 }
-
-
