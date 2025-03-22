@@ -1,5 +1,5 @@
 {
-  "name": "RG Token",
+  "name": "RG Corporation Token",
   "symbol": "RGCORP",
   "description": "Token oficial da Rocket Gaming Corporation. Utilizado em governança DAO e acesso ao ecossistema da RG.",
   "image": "https://i.imgur.com/i4eXsiD.png",
@@ -17,6 +17,7 @@
   ],
   "properties": {
     "category": "utility",
+    "whitepaper": "https://rocket-gaming-corporation.gitbook.io/whitepapper",
     "files": [
       {
         "uri": "https://i.imgur.com/6yqIdLT.png",
