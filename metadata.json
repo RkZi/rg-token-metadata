@@ -1,8 +1,8 @@
 {
-  "address": "EwKt82mDxzvgW2T5vZ4H5MGRfJyWAGxay38mSB4699Fh",
+  "address": "4nvBDoWkfg1LEKdEMuDSMfuerkrUs74MzCuYzS8pyydk",
   "symbol": "RGCORP",
   "name": "RG Token",
-  "decimals": 8,
+  "decimals": 5,
   "logoURI": "https://i.imgur.com/6yqIdLT.png",
   "tags": ["utility-token", "governance"],
   "extensions": {
