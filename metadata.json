@@ -13,11 +13,14 @@
     {
       "trait_type": "Governança",
       "value": "DAO - Realms"
+    },
+    {
+      "trait_type": "Whitepaper",
+      "value": "https://rocket-gaming-corporation.gitbook.io/whitepapper"
     }
   ],
   "properties": {
     "category": "utility",
-    "whitepaper": "https://rocket-gaming-corporation.gitbook.io/whitepapper",
     "files": [
       {
         "uri": "https://i.imgur.com/i4eXsiD.png",
