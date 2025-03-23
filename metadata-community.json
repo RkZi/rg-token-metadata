@@ -1,0 +1,27 @@
+{
+  "name": "RG Corporation Community Token",
+  "symbol": "RGCOM",
+  "description": "Token comunitário da Rocket Gaming Corporation. Apoie nosso projeto",
+  "image": "https://i.imgur.com/i4eXsiD.png",
+  "seller_fee_basis_points": 0,
+  "external_url": "https://rg.business",
+  "attributes": [
+    {
+      "trait_type": "Categoria",
+      "value": "Community Utility Token"
+    },
+    {
+      "trait_type": "Whitepaper",
+      "value": "https://rocket-gaming-corporation.gitbook.io/whitepapper"
+    }
+  ],
+  "properties": {
+    "category": "utility",
+    "files": [
+      {
+        "uri": "https://i.imgur.com/i4eXsiD.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
