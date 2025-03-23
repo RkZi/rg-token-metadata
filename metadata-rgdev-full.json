@@ -1,0 +1,27 @@
+{
+  "name": "RG Internal Governance Token",
+  "symbol": "RGDEV",
+  "description": "Internal governance token of Rocket Gaming Corporation. Used for private voting among the Council and Tech Leads of the team.",
+  "image": "https://i.imgur.com/i4eXsiD.png",
+  "seller_fee_basis_points": 0,
+  "external_url": "https://rg.business",
+  "attributes": [
+    {
+      "trait_type": "Categoria",
+      "value": "Internal DAO Governance Token"
+    },
+    {
+      "trait_type": "Voting Structure",
+      "value": "3x Council / 2x Tech Lead / 1x Dev"
+    }
+  ],
+  "properties": {
+    "category": "utility",
+    "files": [
+      {
+        "uri": "https://i.imgur.com/i4eXsiD.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
