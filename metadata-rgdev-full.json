@@ -2,7 +2,7 @@
   "name": "RG Internal Governance Token",
   "symbol": "RGDEV",
   "description": "Token exclusivo para desenvolvedores da Rocket Gaming Corporation. Utilizado para acesso técnico, testes de governança e validação de integrações no ecossistema RG.",
-  "image": "https://i.imgur.com/i4eXsiD.png",
+  "image": "https://rkzi.github.io/rg-token-metadata/rgdev.png",
   "seller_fee_basis_points": 0,
   "external_url": "https://rg.business",
   "attributes": [
@@ -23,7 +23,7 @@
     "category": "utility",
     "files": [
       {
-        "uri": "https://i.imgur.com/i4eXsiD.png",
+        "uri": "https://rkzi.github.io/rg-token-metadata/rgdev.png",
         "type": "image/png"
       }
     ]
